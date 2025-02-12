@@ -6,12 +6,14 @@
 
 idade = int(input('Qual a sua idade? '))
 
-if idade >= 14:
-    if idade >= 16:
-        if idade >= 18:
-            print('Você pode aprender a dirigir')
-
-        print('Você pode votar')
+if idade >= 14 and idade < 16:
     print('Você pode comprar um bilhete de loteria')
-else:
+
+if idade >= 16 and idade < 18:
+        print('Você pode votar')
+
+if idade >= 18:
+    print('Você pode aprender a dirigir')
+
+if idade < 14:
     print('Você pode fazer doces ou travessuras')
