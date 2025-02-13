@@ -9,7 +9,12 @@ if ischovendo.__eq__('sim'):
 
     if isventando.__eq__('sim'):
         print('Está ventando muito para um guarda-chuva')
+        print('Daniel Balera')
+
     else:
         print('Pegue um guarda-chuva')
+        print('Daniel Balera')
+
 else:
     print('Aproveite o seu dia')
+    print('Daniel Balera')

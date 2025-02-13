@@ -6,5 +6,8 @@ cor = input('Digite sua cor favorita: ')
 
 if cor.__eq__('vermelho' or 'VERMELHO' or 'Vermelho'):
     print('Eu também gosto de vermelho')
+    print('Daniel Balera')
+
 else:
     print('Eu não gosto de {}, eu prefiro vermelho'.format(cor))
+    print('Daniel Balera')

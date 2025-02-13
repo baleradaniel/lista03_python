@@ -7,5 +7,8 @@ numero = int(input('Insira um numero de 10 a 20: '))
 if numero > 10:
     if numero < 20:
         print('Obrigado')
+        print('Daniel Balera')
+
 else: 
     print('Resposta incorreta')
+    print('Daniel Balera')

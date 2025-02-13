@@ -8,12 +8,16 @@ idade = int(input('Qual a sua idade? '))
 
 if idade >= 14 and idade < 16:
     print('Você pode comprar um bilhete de loteria')
+    print('Daniel Balera')
 
-if idade >= 16 and idade < 18:
+elif idade >= 16 and idade < 18:
         print('Você pode votar')
+        print('Daniel Balera')
 
-if idade >= 18:
+elif idade >= 18:
     print('Você pode aprender a dirigir')
+    print('Daniel Balera')
 
-if idade < 14:
+elif idade < 14:
     print('Você pode fazer doces ou travessuras')
+    print('Daniel Balera')

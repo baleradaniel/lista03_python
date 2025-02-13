@@ -6,9 +6,16 @@ numero = int(input('Insira 1,2 ou 3: '))
 
 if numero == 1:
     print('Obrigado')
+    print('Daniel Balera')
+
 elif numero == 2:
     print('Muito bem')
+    print('Daniel Balera')
+
 elif numero == 3:
     print('Correto')
+    print('Daniel Balera')
+
 else:
     print('Mensagem de erro')
+    print('Daniel Balera')

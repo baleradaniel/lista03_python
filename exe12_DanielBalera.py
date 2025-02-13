@@ -12,13 +12,16 @@ operacao = input('Escolha a operação \n soma (+) \n subtração (-) \n multipl
 
 if operacao == '+':
     print('Resultado da operação: ', soma)
+    print('Daniel Balera')
 
 elif operacao == '-':
     print('Resultado da operação: ', subtracao)
+    print('Daniel Balera')
     
 elif operacao == '*':
     print('Resultado da operação: ', multiplicacao)
+    print('Daniel Balera')
     
 elif operacao == '/':
     print('Resultado da operação: ', divisao)
-
+    print('Daniel Balera')

@@ -6,6 +6,9 @@ salario =  float(input('Informe o seu salário: '))
 if salario > 1250:
     aumento = salario* 0.10
     print('Salario atual: R$',salario, '\n Aumento: R$', aumento, '\n Salario pós aumento: R$', (salario + aumento))
+    print('Daniel Balera')
+
 else:
     aumento = salario* 0.15
     print('Salario atual: R$',salario, '\n Aumento: R$', aumento, '\n Salario pós aumento: R$', (salario + aumento))
+    print('Daniel Balera')

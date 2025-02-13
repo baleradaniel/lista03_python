@@ -6,5 +6,10 @@ km = int(input('Qual a distancia? (km) '))
 
 if km <= 200:
     cobrança = km*0.50
+    print('Preço da viagem: ', cobrança)
+    print('Daniel Balera')
+
 else:
     cobrança = km*0.45
+    print('Preço da viagem: ', cobrança)
+    print('Daniel Balera')
